@@ -1,1 +1,18 @@
+body{
+ "background-color:#414141;"
+ "color:white;"
+}
 
+button{
+ "font-size:20px"
+ "border-radius:25px;"
+ "padding:15;"
+ "margin:10;"
+ "background-color:white;"
+ "color:black;"
+}
+
+button:hover{
+    background-color:#414141;
+    cursor: pointer;
+}
